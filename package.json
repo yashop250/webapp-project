@@ -1,0 +1,11 @@
+{
+  "name": "my_webapp",
+  "version": "1.0.0",
+  "description": "Sample web app for Jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All tests passed!\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
